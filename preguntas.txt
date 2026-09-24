@@ -1,4 +1,4 @@
-CATEGORIA: Metodologias Agiles y Marco Scrum (UPNA)
+CATEGORIA: Metodologías Agiles y Marco Scrum (UPNA)
 Pregunta 1: ¿cual es la duración máxima recomendada de un daiyly scrum?
 A) 30 minutos
 B) 15 minutos
